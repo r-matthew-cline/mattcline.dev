@@ -1,0 +1,84 @@
+/* Base16 Atelier Estuary Light - Theme */
+/* by Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/estuary) */
+/* Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16) */
+
+/* Atelier-Estuary Comment */
+.atelier-estuary-light .hljs-comment,
+.atelier-estuary-light .hljs-quote {
+  color: #6c6b5a;
+}
+
+/* Atelier-Estuary Red */
+.atelier-estuary-light .hljs-variable,
+.atelier-estuary-light .hljs-template-variable,
+.atelier-estuary-light .hljs-attribute,
+.atelier-estuary-light .hljs-tag,
+.atelier-estuary-light .hljs-name,
+.atelier-estuary-light .hljs-regexp,
+.atelier-estuary-light .hljs-link,
+.atelier-estuary-light .hljs-name,
+.atelier-estuary-light .hljs-selector-id,
+.atelier-estuary-light .hljs-selector-class {
+  color: #ba6236;
+}
+
+/* Atelier-Estuary Orange */
+.atelier-estuary-light .hljs-number,
+.atelier-estuary-light .hljs-meta,
+.atelier-estuary-light .hljs-built_in,
+.atelier-estuary-light .hljs-builtin-name,
+.atelier-estuary-light .hljs-literal,
+.atelier-estuary-light .hljs-type,
+.atelier-estuary-light .hljs-params {
+  color: #ae7313;
+}
+
+/* Atelier-Estuary Green */
+.atelier-estuary-light .hljs-string,
+.atelier-estuary-light .hljs-symbol,
+.atelier-estuary-light .hljs-bullet {
+  color: #7d9726;
+}
+
+/* Atelier-Estuary Blue */
+.atelier-estuary-light .hljs-title,
+.atelier-estuary-light .hljs-section {
+  color: #36a166;
+}
+
+/* Atelier-Estuary Purple */
+.atelier-estuary-light .hljs-keyword,
+.atelier-estuary-light .hljs-selector-tag {
+  color: #5f9182;
+}
+
+.atelier-estuary-light .hljs-deletion,
+.atelier-estuary-light .hljs-addition {
+  color: #22221b;
+  display: inline-block;
+  width: 100%;
+}
+
+.atelier-estuary-light .hljs-deletion {
+  background-color: #ba6236;
+}
+
+.atelier-estuary-light .hljs-addition {
+  background-color: #7d9726;
+}
+
+.atelier-estuary-light .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #f4f3ec;
+  color: #5f5e4e;
+  padding: 0.5em;
+}
+
+.atelier-estuary-light .hljs-emphasis {
+  font-style: italic;
+}
+
+.atelier-estuary-light .hljs-strong {
+  font-weight: bold;
+}

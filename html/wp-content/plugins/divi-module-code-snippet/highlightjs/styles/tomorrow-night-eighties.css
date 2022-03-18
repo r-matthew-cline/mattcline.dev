@@ -1,0 +1,74 @@
+/* Tomorrow Night Eighties Theme */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+
+/* Tomorrow Comment */
+.tomorrow-night-eighties .hljs-comment,
+.tomorrow-night-eighties .hljs-quote {
+  color: #999999;
+}
+
+/* Tomorrow Red */
+.tomorrow-night-eighties .hljs-variable,
+.tomorrow-night-eighties .hljs-template-variable,
+.tomorrow-night-eighties .hljs-tag,
+.tomorrow-night-eighties .hljs-name,
+.tomorrow-night-eighties .hljs-selector-id,
+.tomorrow-night-eighties .hljs-selector-class,
+.tomorrow-night-eighties .hljs-regexp,
+.tomorrow-night-eighties .hljs-deletion {
+  color: #f2777a;
+}
+
+/* Tomorrow Orange */
+.tomorrow-night-eighties .hljs-number,
+.tomorrow-night-eighties .hljs-built_in,
+.tomorrow-night-eighties .hljs-builtin-name,
+.tomorrow-night-eighties .hljs-literal,
+.tomorrow-night-eighties .hljs-type,
+.tomorrow-night-eighties .hljs-params,
+.tomorrow-night-eighties .hljs-meta,
+.tomorrow-night-eighties .hljs-link {
+  color: #f99157;
+}
+
+/* Tomorrow Yellow */
+.tomorrow-night-eighties .hljs-attribute {
+  color: #ffcc66;
+}
+
+/* Tomorrow Green */
+.tomorrow-night-eighties .hljs-string,
+.tomorrow-night-eighties .hljs-symbol,
+.tomorrow-night-eighties .hljs-bullet,
+.tomorrow-night-eighties .hljs-addition {
+  color: #99cc99;
+}
+
+/* Tomorrow Blue */
+.tomorrow-night-eighties .hljs-title,
+.tomorrow-night-eighties .hljs-section {
+  color: #6699cc;
+}
+
+/* Tomorrow Purple */
+.tomorrow-night-eighties .hljs-keyword,
+.tomorrow-night-eighties .hljs-selector-tag {
+  color: #cc99cc;
+}
+
+.tomorrow-night-eighties .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #2d2d2d;
+  color: #cccccc;
+  padding: 0.5em;
+}
+
+.tomorrow-night-eighties .hljs-emphasis {
+  font-style: italic;
+}
+
+.tomorrow-night-eighties .hljs-strong {
+  font-weight: bold;
+}

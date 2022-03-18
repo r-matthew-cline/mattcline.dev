@@ -1,0 +1,71 @@
+/**
+ * GitHub Gist Theme
+ * Author : Louis Barranqueiro - https://github.com/LouisBarranqueiro
+ */
+
+.github-gist .hljs {
+  display: block;
+  background: white;
+  padding: 0.5em;
+  color: #333333;
+  overflow-x: auto;
+}
+
+.github-gist .hljs-comment,
+.github-gist .hljs-meta {
+  color: #969896;
+}
+
+.github-gist .hljs-string,
+.github-gist .hljs-variable,
+.github-gist .hljs-template-variable,
+.github-gist .hljs-strong,
+.github-gist .hljs-emphasis,
+.github-gist .hljs-quote {
+  color: #df5000;
+}
+
+.github-gist .hljs-keyword,
+.github-gist .hljs-selector-tag,
+.github-gist .hljs-type {
+  color: #a71d5d;
+}
+
+.github-gist .hljs-literal,
+.github-gist .hljs-symbol,
+.github-gist .hljs-bullet,
+.github-gist .hljs-attribute {
+  color: #0086b3;
+}
+
+.github-gist .hljs-section,
+.github-gist .hljs-name {
+  color: #63a35c;
+}
+
+.github-gist .hljs-tag {
+  color: #333333;
+}
+
+.github-gist .hljs-title,
+.github-gist .hljs-attr,
+.github-gist .hljs-selector-id,
+.github-gist .hljs-selector-class,
+.github-gist .hljs-selector-attr,
+.github-gist .hljs-selector-pseudo {
+  color: #795da3;
+}
+
+.github-gist .hljs-addition {
+  color: #55a532;
+  background-color: #eaffea;
+}
+
+.github-gist .hljs-deletion {
+  color: #bd2c00;
+  background-color: #ffecec;
+}
+
+.github-gist .hljs-link {
+  text-decoration: underline;
+}

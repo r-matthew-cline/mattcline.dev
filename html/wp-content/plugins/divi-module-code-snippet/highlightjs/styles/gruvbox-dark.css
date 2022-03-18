@@ -1,0 +1,108 @@
+/*
+
+Gruvbox style (dark) (c) Pavel Pertsev (original style at https://github.com/morhetz/gruvbox)
+
+*/
+
+.gruvbox-dark .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #282828;
+}
+
+.gruvbox-dark .hljs,
+.gruvbox-dark .hljs-subst {
+  color: #ebdbb2;
+}
+
+/* Gruvbox Red */
+.gruvbox-dark .hljs-deletion,
+.gruvbox-dark .hljs-formula,
+.gruvbox-dark .hljs-keyword,
+.gruvbox-dark .hljs-link,
+.gruvbox-dark .hljs-selector-tag {
+  color: #fb4934;
+}
+
+/* Gruvbox Blue */
+.gruvbox-dark .hljs-built_in,
+.gruvbox-dark .hljs-emphasis,
+.gruvbox-dark .hljs-name,
+.gruvbox-dark .hljs-quote,
+.gruvbox-dark .hljs-strong,
+.gruvbox-dark .hljs-title,
+.gruvbox-dark .hljs-variable {
+  color: #83a598;
+}
+
+/* Gruvbox Yellow */
+.gruvbox-dark .hljs-attr,
+.gruvbox-dark .hljs-params,
+.gruvbox-dark .hljs-template-tag,
+.gruvbox-dark .hljs-type {
+  color: #fabd2f;
+}
+
+/* Gruvbox Purple */
+.gruvbox-dark .hljs-builtin-name,
+.gruvbox-dark .hljs-doctag,
+.gruvbox-dark .hljs-literal,
+.gruvbox-dark .hljs-number {
+  color: #8f3f71;
+}
+
+/* Gruvbox Orange */
+.gruvbox-dark .hljs-code,
+.gruvbox-dark .hljs-meta,
+.gruvbox-dark .hljs-regexp,
+.gruvbox-dark .hljs-selector-id,
+.gruvbox-dark .hljs-template-variable {
+  color: #fe8019;
+}
+
+/* Gruvbox Green */
+.gruvbox-dark .hljs-addition,
+.gruvbox-dark .hljs-meta-string,
+.gruvbox-dark .hljs-section,
+.gruvbox-dark .hljs-selector-attr,
+.gruvbox-dark .hljs-selector-class,
+.gruvbox-dark .hljs-string,
+.gruvbox-dark .hljs-symbol {
+  color: #b8bb26;
+}
+
+/* Gruvbox Aqua */
+.gruvbox-dark .hljs-attribute,
+.gruvbox-dark .hljs-bullet,
+.gruvbox-dark .hljs-class,
+.gruvbox-dark .hljs-function,
+.gruvbox-dark .hljs-function  .hljs-keyword,
+.gruvbox-dark .hljs-meta-keyword,
+.gruvbox-dark .hljs-selector-pseudo,
+.gruvbox-dark .hljs-tag {
+  color: #8ec07c;
+}
+
+/* Gruvbox Gray */
+.gruvbox-dark .hljs-comment {
+  color: #928374;
+}
+
+/* Gruvbox Purple */
+.gruvbox-dark .hljs-link_label,
+.gruvbox-dark .hljs-literal,
+.gruvbox-dark .hljs-number {
+  color: #d3869b;
+}
+
+.gruvbox-dark .hljs-comment,
+.gruvbox-dark .hljs-emphasis {
+  font-style: italic;
+}
+
+.gruvbox-dark .hljs-section,
+.gruvbox-dark .hljs-strong,
+.gruvbox-dark .hljs-tag {
+  font-weight: bold;
+}

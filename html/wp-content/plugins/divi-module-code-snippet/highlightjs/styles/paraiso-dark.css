@@ -1,0 +1,72 @@
+/*
+    Paraíso (dark)
+    Created by Jan T. Sott (http://github.com/idleberg)
+    Inspired by the art of Rubens LP (http://www.rubenslp.com.br)
+*/
+
+/* Paraíso Comment */
+.paraiso-dark .hljs-comment,
+.paraiso-dark .hljs-quote {
+  color: #8d8687;
+}
+
+/* Paraíso Red */
+.paraiso-dark .hljs-variable,
+.paraiso-dark .hljs-template-variable,
+.paraiso-dark .hljs-tag,
+.paraiso-dark .hljs-name,
+.paraiso-dark .hljs-selector-id,
+.paraiso-dark .hljs-selector-class,
+.paraiso-dark .hljs-regexp,
+.paraiso-dark .hljs-link,
+.paraiso-dark .hljs-meta {
+  color: #ef6155;
+}
+
+/* Paraíso Orange */
+.paraiso-dark .hljs-number,
+.paraiso-dark .hljs-built_in,
+.paraiso-dark .hljs-builtin-name,
+.paraiso-dark .hljs-literal,
+.paraiso-dark .hljs-type,
+.paraiso-dark .hljs-params,
+.paraiso-dark .hljs-deletion {
+  color: #f99b15;
+}
+
+/* Paraíso Yellow */
+.paraiso-dark .hljs-title,
+.paraiso-dark .hljs-section,
+.paraiso-dark .hljs-attribute {
+  color: #fec418;
+}
+
+/* Paraíso Green */
+.paraiso-dark .hljs-string,
+.paraiso-dark .hljs-symbol,
+.paraiso-dark .hljs-bullet,
+.paraiso-dark .hljs-addition {
+  color: #48b685;
+}
+
+/* Paraíso Purple */
+.paraiso-dark .hljs-keyword,
+.paraiso-dark .hljs-selector-tag {
+  color: #815ba4;
+}
+
+.paraiso-dark .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #2f1e2e;
+  color: #a39e9b;
+  padding: 0.5em;
+}
+
+.paraiso-dark .hljs-emphasis {
+  font-style: italic;
+}
+
+.paraiso-dark .hljs-strong {
+  font-weight: bold;
+}

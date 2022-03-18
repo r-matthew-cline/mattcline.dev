@@ -1,0 +1,84 @@
+/* Base16 Atelier Plateau Light - Theme */
+/* by Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/plateau) */
+/* Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16) */
+
+/* Atelier-Plateau Comment */
+.atelier-plateau-light .hljs-comment,
+.atelier-plateau-light .hljs-quote {
+  color: #655d5d;
+}
+
+/* Atelier-Plateau Red */
+.atelier-plateau-light .hljs-variable,
+.atelier-plateau-light .hljs-template-variable,
+.atelier-plateau-light .hljs-attribute,
+.atelier-plateau-light .hljs-tag,
+.atelier-plateau-light .hljs-name,
+.atelier-plateau-light .hljs-regexp,
+.atelier-plateau-light .hljs-link,
+.atelier-plateau-light .hljs-name,
+.atelier-plateau-light .hljs-selector-id,
+.atelier-plateau-light .hljs-selector-class {
+  color: #ca4949;
+}
+
+/* Atelier-Plateau Orange */
+.atelier-plateau-light .hljs-number,
+.atelier-plateau-light .hljs-meta,
+.atelier-plateau-light .hljs-built_in,
+.atelier-plateau-light .hljs-builtin-name,
+.atelier-plateau-light .hljs-literal,
+.atelier-plateau-light .hljs-type,
+.atelier-plateau-light .hljs-params {
+  color: #b45a3c;
+}
+
+/* Atelier-Plateau Green */
+.atelier-plateau-light .hljs-string,
+.atelier-plateau-light .hljs-symbol,
+.atelier-plateau-light .hljs-bullet {
+  color: #4b8b8b;
+}
+
+/* Atelier-Plateau Blue */
+.atelier-plateau-light .hljs-title,
+.atelier-plateau-light .hljs-section {
+  color: #7272ca;
+}
+
+/* Atelier-Plateau Purple */
+.atelier-plateau-light .hljs-keyword,
+.atelier-plateau-light .hljs-selector-tag {
+  color: #8464c4;
+}
+
+.atelier-plateau-light .hljs-deletion,
+.atelier-plateau-light .hljs-addition {
+  color: #1b1818;
+  display: inline-block;
+  width: 100%;
+}
+
+.atelier-plateau-light .hljs-deletion {
+  background-color: #ca4949;
+}
+
+.atelier-plateau-light .hljs-addition {
+  background-color: #4b8b8b;
+}
+
+.atelier-plateau-light .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #f4ecec;
+  color: #585050;
+  padding: 0.5em;
+}
+
+.atelier-plateau-light .hljs-emphasis {
+  font-style: italic;
+}
+
+.atelier-plateau-light .hljs-strong {
+  font-weight: bold;
+}

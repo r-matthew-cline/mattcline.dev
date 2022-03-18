@@ -1,0 +1,69 @@
+/* Base16 Atelier Heath Light - Theme */
+/* by Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/heath) */
+/* Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16) */
+
+/* Atelier-Heath Comment */
+.atelier-heath-light .hljs-comment,
+.atelier-heath-light .hljs-quote {
+  color: #776977;
+}
+
+/* Atelier-Heath Red */
+.atelier-heath-light .hljs-variable,
+.atelier-heath-light .hljs-template-variable,
+.atelier-heath-light .hljs-attribute,
+.atelier-heath-light .hljs-tag,
+.atelier-heath-light .hljs-name,
+.atelier-heath-light .hljs-regexp,
+.atelier-heath-light .hljs-link,
+.atelier-heath-light .hljs-name,
+.atelier-heath-light .hljs-selector-id,
+.atelier-heath-light .hljs-selector-class {
+  color: #ca402b;
+}
+
+/* Atelier-Heath Orange */
+.atelier-heath-light .hljs-number,
+.atelier-heath-light .hljs-meta,
+.atelier-heath-light .hljs-built_in,
+.atelier-heath-light .hljs-builtin-name,
+.atelier-heath-light .hljs-literal,
+.atelier-heath-light .hljs-type,
+.atelier-heath-light .hljs-params {
+  color: #a65926;
+}
+
+/* Atelier-Heath Green */
+.atelier-heath-light .hljs-string,
+.atelier-heath-light .hljs-symbol,
+.atelier-heath-light .hljs-bullet {
+  color: #918b3b;
+}
+
+/* Atelier-Heath Blue */
+.atelier-heath-light .hljs-title,
+.atelier-heath-light .hljs-section {
+  color: #516aec;
+}
+
+/* Atelier-Heath Purple */
+.atelier-heath-light .hljs-keyword,
+.atelier-heath-light .hljs-selector-tag {
+  color: #7b59c0;
+}
+
+.atelier-heath-light .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #f7f3f7;
+  color: #695d69;
+  padding: 0.5em;
+}
+
+.atelier-heath-light .hljs-emphasis {
+  font-style: italic;
+}
+
+.atelier-heath-light .hljs-strong {
+  font-weight: bold;
+}

@@ -1,0 +1,74 @@
+/*
+    Name:     Kimbie (dark)
+    Author:   Jan T. Sott
+    License:  Creative Commons Attribution-ShareAlike 4.0 Unported License
+    URL:      https://github.com/idleberg/Kimbie-highlight.js
+*/
+
+/* Kimbie Comment */
+.kimbie-dark .hljs-comment,
+.kimbie-dark .hljs-quote {
+  color: #d6baad;
+}
+
+/* Kimbie Red */
+.kimbie-dark .hljs-variable,
+.kimbie-dark .hljs-template-variable,
+.kimbie-dark .hljs-tag,
+.kimbie-dark .hljs-name,
+.kimbie-dark .hljs-selector-id,
+.kimbie-dark .hljs-selector-class,
+.kimbie-dark .hljs-regexp,
+.kimbie-dark .hljs-meta {
+  color: #dc3958;
+}
+
+/* Kimbie Orange */
+.kimbie-dark .hljs-number,
+.kimbie-dark .hljs-built_in,
+.kimbie-dark .hljs-builtin-name,
+.kimbie-dark .hljs-literal,
+.kimbie-dark .hljs-type,
+.kimbie-dark .hljs-params,
+.kimbie-dark .hljs-deletion,
+.kimbie-dark .hljs-link {
+  color: #f79a32;
+}
+
+/* Kimbie Yellow */
+.kimbie-dark .hljs-title,
+.kimbie-dark .hljs-section,
+.kimbie-dark .hljs-attribute {
+  color: #f06431;
+}
+
+/* Kimbie Green */
+.kimbie-dark .hljs-string,
+.kimbie-dark .hljs-symbol,
+.kimbie-dark .hljs-bullet,
+.kimbie-dark .hljs-addition {
+  color: #889b4a;
+}
+
+/* Kimbie Purple */
+.kimbie-dark .hljs-keyword,
+.kimbie-dark .hljs-selector-tag,
+.kimbie-dark .hljs-function {
+  color: #98676a;
+}
+
+.kimbie-dark .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #221a0f;
+  color: #d3af86;
+  padding: 0.5em;
+}
+
+.kimbie-dark .hljs-emphasis {
+  font-style: italic;
+}
+
+.kimbie-dark .hljs-strong {
+  font-weight: bold;
+}

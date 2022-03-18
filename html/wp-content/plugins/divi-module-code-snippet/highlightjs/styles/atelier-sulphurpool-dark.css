@@ -1,0 +1,69 @@
+/* Base16 Atelier Sulphurpool Dark - Theme */
+/* by Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/sulphurpool) */
+/* Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16) */
+
+/* Atelier-Sulphurpool Comment */
+.atelier-sulphurpool-dark .hljs-comment,
+.atelier-sulphurpool-dark .hljs-quote {
+  color: #898ea4;
+}
+
+/* Atelier-Sulphurpool Red */
+.atelier-sulphurpool-dark .hljs-variable,
+.atelier-sulphurpool-dark .hljs-template-variable,
+.atelier-sulphurpool-dark .hljs-attribute,
+.atelier-sulphurpool-dark .hljs-tag,
+.atelier-sulphurpool-dark .hljs-name,
+.atelier-sulphurpool-dark .hljs-regexp,
+.atelier-sulphurpool-dark .hljs-link,
+.atelier-sulphurpool-dark .hljs-name,
+.atelier-sulphurpool-dark .hljs-selector-id,
+.atelier-sulphurpool-dark .hljs-selector-class {
+  color: #c94922;
+}
+
+/* Atelier-Sulphurpool Orange */
+.atelier-sulphurpool-dark .hljs-number,
+.atelier-sulphurpool-dark .hljs-meta,
+.atelier-sulphurpool-dark .hljs-built_in,
+.atelier-sulphurpool-dark .hljs-builtin-name,
+.atelier-sulphurpool-dark .hljs-literal,
+.atelier-sulphurpool-dark .hljs-type,
+.atelier-sulphurpool-dark .hljs-params {
+  color: #c76b29;
+}
+
+/* Atelier-Sulphurpool Green */
+.atelier-sulphurpool-dark .hljs-string,
+.atelier-sulphurpool-dark .hljs-symbol,
+.atelier-sulphurpool-dark .hljs-bullet {
+  color: #ac9739;
+}
+
+/* Atelier-Sulphurpool Blue */
+.atelier-sulphurpool-dark .hljs-title,
+.atelier-sulphurpool-dark .hljs-section {
+  color: #3d8fd1;
+}
+
+/* Atelier-Sulphurpool Purple */
+.atelier-sulphurpool-dark .hljs-keyword,
+.atelier-sulphurpool-dark .hljs-selector-tag {
+  color: #6679cc;
+}
+
+.atelier-sulphurpool-dark .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #202746;
+  color: #979db4;
+  padding: 0.5em;
+}
+
+.atelier-sulphurpool-dark .hljs-emphasis {
+  font-style: italic;
+}
+
+.atelier-sulphurpool-dark .hljs-strong {
+  font-weight: bold;
+}

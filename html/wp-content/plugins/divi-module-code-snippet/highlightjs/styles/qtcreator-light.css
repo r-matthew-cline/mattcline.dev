@@ -1,0 +1,83 @@
+/*
+
+Qt Creator light color scheme
+
+*/
+
+
+.qtcreator-light .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #ffffff;
+}
+
+.qtcreator-light .hljs,
+.qtcreator-light .hljs-subst,
+.qtcreator-light .hljs-tag,
+.qtcreator-light .hljs-title {
+  color: #000000;
+}
+
+.qtcreator-light .hljs-strong,
+.qtcreator-light .hljs-emphasis {
+  color: #000000;
+}
+
+.qtcreator-light .hljs-bullet,
+.qtcreator-light .hljs-quote,
+.qtcreator-light .hljs-number,
+.qtcreator-light .hljs-regexp,
+.qtcreator-light .hljs-literal {
+  color: #000080;
+}
+
+.qtcreator-light .hljs-code
+.qtcreator-light .hljs-selector-class {
+  color: #800080;
+}
+
+.qtcreator-light .hljs-emphasis,
+.qtcreator-light .hljs-stronge,
+.qtcreator-light .hljs-type {
+  font-style: italic;
+}
+
+.qtcreator-light .hljs-keyword,
+.qtcreator-light .hljs-selector-tag,
+.qtcreator-light .hljs-function,
+.qtcreator-light .hljs-section,
+.qtcreator-light .hljs-symbol,
+.qtcreator-light .hljs-name {
+  color: #808000;
+}
+
+.qtcreator-light .hljs-attribute {
+  color: #800000;
+}
+
+.qtcreator-light .hljs-variable,
+.qtcreator-light .hljs-params,
+.qtcreator-light .hljs-class .hljs-title {
+  color: #0055AF;
+}
+
+.qtcreator-light .hljs-string,
+.qtcreator-light .hljs-selector-id,
+.qtcreator-light .hljs-selector-attr,
+.qtcreator-light .hljs-selector-pseudo,
+.qtcreator-light .hljs-type,
+.qtcreator-light .hljs-built_in,
+.qtcreator-light .hljs-builtin-name,
+.qtcreator-light .hljs-template-tag,
+.qtcreator-light .hljs-template-variable,
+.qtcreator-light .hljs-addition,
+.qtcreator-light .hljs-link {
+  color: #008000;
+}
+
+.qtcreator-light .hljs-comment,
+.qtcreator-light .hljs-meta,
+.qtcreator-light .hljs-deletion {
+  color: #008000;
+}

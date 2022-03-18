@@ -1,0 +1,88 @@
+/*
+
+Arduino® Light Theme - Stefania Mellai <s.mellai@arduino.cc>
+
+*/
+
+.arduino-light .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #FFFFFF;
+}
+
+.arduino-light .hljs,
+.arduino-light .hljs-subst {
+  color: #434f54;
+}
+
+.arduino-light .hljs-keyword,
+.arduino-light .hljs-attribute,
+.arduino-light .hljs-selector-tag,
+.arduino-light .hljs-doctag,
+.arduino-light .hljs-name {
+  color: #00979D;
+}
+
+.arduino-light .hljs-built_in,
+.arduino-light .hljs-literal,
+.arduino-light .hljs-bullet,
+.arduino-light .hljs-code,
+.arduino-light .hljs-addition {
+  color: #D35400;
+}
+
+.arduino-light .hljs-regexp,
+.arduino-light .hljs-symbol,
+.arduino-light .hljs-variable,
+.arduino-light .hljs-template-variable,
+.arduino-light .hljs-link,
+.arduino-light .hljs-selector-attr,
+.arduino-light .hljs-selector-pseudo {
+  color: #00979D;
+}
+
+.arduino-light .hljs-type,
+.arduino-light .hljs-string,
+.arduino-light .hljs-selector-id,
+.arduino-light .hljs-selector-class,
+.arduino-light .hljs-quote,
+.arduino-light .hljs-template-tag,
+.arduino-light .hljs-deletion {
+  color: #005C5F;
+}
+
+.arduino-light .hljs-title,
+.arduino-light .hljs-section {
+  color: #880000;
+  font-weight: bold;
+}
+
+.arduino-light .hljs-comment {
+  color: rgba(149,165,166,.8);
+}
+
+.arduino-light .hljs-meta-keyword {
+  color: #728E00;
+}
+
+.arduino-light .hljs-meta {
+  color: #728E00;
+  color: #434f54;
+}
+
+.arduino-light .hljs-emphasis {
+  font-style: italic;
+}
+
+.arduino-light .hljs-strong {
+  font-weight: bold;
+}
+
+.arduino-light .hljs-function {
+  color: #728E00;
+}
+
+.arduino-light .hljs-number {
+  color: #8A7B52;  
+}

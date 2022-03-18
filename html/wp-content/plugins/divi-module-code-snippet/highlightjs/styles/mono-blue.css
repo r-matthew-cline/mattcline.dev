@@ -1,0 +1,59 @@
+/*
+  Five-color theme from a single blue hue.
+*/
+.mono-blue .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #eaeef3;
+}
+
+.mono-blue .hljs {
+  color: #00193a;
+}
+
+.mono-blue .hljs-keyword,
+.mono-blue .hljs-selector-tag,
+.mono-blue .hljs-title,
+.mono-blue .hljs-section,
+.mono-blue .hljs-doctag,
+.mono-blue .hljs-name,
+.mono-blue .hljs-strong {
+  font-weight: bold;
+}
+
+.mono-blue .hljs-comment {
+  color: #738191;
+}
+
+.mono-blue .hljs-string,
+.mono-blue .hljs-title,
+.mono-blue .hljs-section,
+.mono-blue .hljs-built_in,
+.mono-blue .hljs-literal,
+.mono-blue .hljs-type,
+.mono-blue .hljs-addition,
+.mono-blue .hljs-tag,
+.mono-blue .hljs-quote,
+.mono-blue .hljs-name,
+.mono-blue .hljs-selector-id,
+.mono-blue .hljs-selector-class {
+  color: #0048ab;
+}
+
+.mono-blue .hljs-meta,
+.mono-blue .hljs-subst,
+.mono-blue .hljs-symbol,
+.mono-blue .hljs-regexp,
+.mono-blue .hljs-attribute,
+.mono-blue .hljs-deletion,
+.mono-blue .hljs-variable,
+.mono-blue .hljs-template-variable,
+.mono-blue .hljs-link,
+.mono-blue .hljs-bullet {
+  color: #4c81c9;
+}
+
+.mono-blue .hljs-emphasis {
+  font-style: italic;
+}

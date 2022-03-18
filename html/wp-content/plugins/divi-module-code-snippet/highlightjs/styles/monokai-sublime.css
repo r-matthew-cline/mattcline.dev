@@ -1,0 +1,83 @@
+/*
+
+Monokai Sublime style. Derived from Monokai by noformnocontent http://nn.mit-license.org/
+
+*/
+
+.monokai-sublime .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #23241f;
+}
+
+.monokai-sublime .hljs,
+.monokai-sublime .hljs-tag,
+.monokai-sublime .hljs-subst {
+  color: #f8f8f2;
+}
+
+.monokai-sublime .hljs-strong,
+.monokai-sublime .hljs-emphasis {
+  color: #a8a8a2;
+}
+
+.monokai-sublime .hljs-bullet,
+.monokai-sublime .hljs-quote,
+.monokai-sublime .hljs-number,
+.monokai-sublime .hljs-regexp,
+.monokai-sublime .hljs-literal,
+.monokai-sublime .hljs-link {
+  color: #ae81ff;
+}
+
+.monokai-sublime .hljs-code,
+.monokai-sublime .hljs-title,
+.monokai-sublime .hljs-section,
+.monokai-sublime .hljs-selector-class {
+  color: #a6e22e;
+}
+
+.monokai-sublime .hljs-strong {
+  font-weight: bold;
+}
+
+.monokai-sublime .hljs-emphasis {
+  font-style: italic;
+}
+
+.monokai-sublime .hljs-keyword,
+.monokai-sublime .hljs-selector-tag,
+.monokai-sublime .hljs-name,
+.monokai-sublime .hljs-attr {
+  color: #f92672;
+}
+
+.monokai-sublime .hljs-symbol,
+.monokai-sublime .hljs-attribute {
+  color: #66d9ef;
+}
+
+.monokai-sublime .hljs-params,
+.monokai-sublime .hljs-class .hljs-title {
+  color: #f8f8f2;
+}
+
+.monokai-sublime .hljs-string,
+.monokai-sublime .hljs-type,
+.monokai-sublime .hljs-built_in,
+.monokai-sublime .hljs-builtin-name,
+.monokai-sublime .hljs-selector-id,
+.monokai-sublime .hljs-selector-attr,
+.monokai-sublime .hljs-selector-pseudo,
+.monokai-sublime .hljs-addition,
+.monokai-sublime .hljs-variable,
+.monokai-sublime .hljs-template-variable {
+  color: #e6db74;
+}
+
+.monokai-sublime .hljs-comment,
+.monokai-sublime .hljs-deletion,
+.monokai-sublime .hljs-meta {
+  color: #75715e;
+}

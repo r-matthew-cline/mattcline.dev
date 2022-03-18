@@ -1,0 +1,71 @@
+/*
+
+Colorbrewer theme
+Original: https://github.com/mbostock/colorbrewer-theme (c) Mike Bostock <mike@ocks.org>
+Ported by Fabrício Tavares de Oliveira
+
+*/
+
+.color-brewer .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #fff;
+}
+
+.color-brewer .hljs,
+.color-brewer .hljs-subst {
+  color: #000;
+}
+
+.color-brewer .hljs-string,
+.color-brewer .hljs-meta,
+.color-brewer .hljs-symbol,
+.color-brewer .hljs-template-tag,
+.color-brewer .hljs-template-variable,
+.color-brewer .hljs-addition {
+  color: #756bb1;
+}
+
+.color-brewer .hljs-comment,
+.color-brewer .hljs-quote {
+  color: #636363;
+}
+
+.color-brewer .hljs-number,
+.color-brewer .hljs-regexp,
+.color-brewer .hljs-literal,
+.color-brewer .hljs-bullet,
+.color-brewer .hljs-link {
+  color: #31a354;
+}
+
+.color-brewer .hljs-deletion,
+.color-brewer .hljs-variable {
+  color: #88f;
+}
+
+
+
+.color-brewer .hljs-keyword,
+.color-brewer .hljs-selector-tag,
+.color-brewer .hljs-title,
+.color-brewer .hljs-section,
+.color-brewer .hljs-built_in,
+.color-brewer .hljs-doctag,
+.color-brewer .hljs-type,
+.color-brewer .hljs-tag,
+.color-brewer .hljs-name,
+.color-brewer .hljs-selector-id,
+.color-brewer .hljs-selector-class,
+.color-brewer .hljs-strong {
+  color: #3182bd;
+}
+
+.color-brewer .hljs-emphasis {
+  font-style: italic;
+}
+
+.color-brewer .hljs-attribute {
+  color: #e6550d;
+}

@@ -1,0 +1,69 @@
+/* Base16 Atelier Dune Light - Theme */
+/* by Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/dune) */
+/* Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16) */
+
+/* Atelier-Dune Comment */
+.atelier-dune-light .hljs-comment,
+.atelier-dune-light .hljs-quote {
+  color: #7d7a68;
+}
+
+/* Atelier-Dune Red */
+.atelier-dune-light .hljs-variable,
+.atelier-dune-light .hljs-template-variable,
+.atelier-dune-light .hljs-attribute,
+.atelier-dune-light .hljs-tag,
+.atelier-dune-light .hljs-name,
+.atelier-dune-light .hljs-regexp,
+.atelier-dune-light .hljs-link,
+.atelier-dune-light .hljs-name,
+.atelier-dune-light .hljs-selector-id,
+.atelier-dune-light .hljs-selector-class {
+  color: #d73737;
+}
+
+/* Atelier-Dune Orange */
+.atelier-dune-light .hljs-number,
+.atelier-dune-light .hljs-meta,
+.atelier-dune-light .hljs-built_in,
+.atelier-dune-light .hljs-builtin-name,
+.atelier-dune-light .hljs-literal,
+.atelier-dune-light .hljs-type,
+.atelier-dune-light .hljs-params {
+  color: #b65611;
+}
+
+/* Atelier-Dune Green */
+.atelier-dune-light .hljs-string,
+.atelier-dune-light .hljs-symbol,
+.atelier-dune-light .hljs-bullet {
+  color: #60ac39;
+}
+
+/* Atelier-Dune Blue */
+.atelier-dune-light .hljs-title,
+.atelier-dune-light .hljs-section {
+  color: #6684e1;
+}
+
+/* Atelier-Dune Purple */
+.atelier-dune-light .hljs-keyword,
+.atelier-dune-light .hljs-selector-tag {
+  color: #b854d4;
+}
+
+.atelier-dune-light .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #fefbec;
+  color: #6e6b5e;
+  padding: 0.5em;
+}
+
+.atelier-dune-light .hljs-emphasis {
+  font-style: italic;
+}
+
+.atelier-dune-light .hljs-strong {
+  font-weight: bold;
+}

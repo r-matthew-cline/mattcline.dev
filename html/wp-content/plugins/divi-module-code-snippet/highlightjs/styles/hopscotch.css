@@ -1,0 +1,83 @@
+/*
+ * Hopscotch
+ * by Jan T. Sott
+ * https://github.com/idleberg/Hopscotch
+ *
+ * This work is licensed under the Creative Commons CC0 1.0 Universal License
+ */
+
+/* Comment */
+.hopscotch .hljs-comment,
+.hopscotch .hljs-quote {
+  color: #989498;
+}
+
+/* Red */
+.hopscotch .hljs-variable,
+.hopscotch .hljs-template-variable,
+.hopscotch .hljs-attribute,
+.hopscotch .hljs-tag,
+.hopscotch .hljs-name,
+.hopscotch .hljs-selector-id,
+.hopscotch .hljs-selector-class,
+.hopscotch .hljs-regexp,
+.hopscotch .hljs-link,
+.hopscotch .hljs-deletion {
+  color: #dd464c;
+}
+
+/* Orange */
+.hopscotch .hljs-number,
+.hopscotch .hljs-built_in,
+.hopscotch .hljs-builtin-name,
+.hopscotch .hljs-literal,
+.hopscotch .hljs-type,
+.hopscotch .hljs-params {
+  color: #fd8b19;
+}
+
+/* Yellow */
+.hopscotch .hljs-class .hljs-title {
+  color: #fdcc59;
+}
+
+/* Green */
+.hopscotch .hljs-string,
+.hopscotch .hljs-symbol,
+.hopscotch .hljs-bullet,
+.hopscotch .hljs-addition {
+  color: #8fc13e;
+}
+
+/* Aqua */
+.hopscotch .hljs-meta {
+  color: #149b93;
+}
+
+/* Blue */
+.hopscotch .hljs-function,
+.hopscotch .hljs-section,
+.hopscotch .hljs-title {
+  color: #1290bf;
+}
+
+/* Purple */
+.hopscotch .hljs-keyword,
+.hopscotch .hljs-selector-tag {
+  color: #c85e7c;
+}
+
+.hopscotch .hljs {
+  display: block;
+  background: #322931;
+  color: #b9b5b8;
+  padding: 0.5em;
+}
+
+.hopscotch .hljs-emphasis {
+  font-style: italic;
+}
+
+.hopscotch .hljs-strong {
+  font-weight: bold;
+}

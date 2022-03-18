@@ -1,0 +1,69 @@
+/* Base16 Atelier Forest Light - Theme */
+/* by Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/forest) */
+/* Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16) */
+
+/* Atelier-Forest Comment */
+.atelier-forest-light .hljs-comment,
+.atelier-forest-light .hljs-quote {
+  color: #766e6b;
+}
+
+/* Atelier-Forest Red */
+.atelier-forest-light .hljs-variable,
+.atelier-forest-light .hljs-template-variable,
+.atelier-forest-light .hljs-attribute,
+.atelier-forest-light .hljs-tag,
+.atelier-forest-light .hljs-name,
+.atelier-forest-light .hljs-regexp,
+.atelier-forest-light .hljs-link,
+.atelier-forest-light .hljs-name,
+.atelier-forest-light .hljs-selector-id,
+.atelier-forest-light .hljs-selector-class {
+  color: #f22c40;
+}
+
+/* Atelier-Forest Orange */
+.atelier-forest-light .hljs-number,
+.atelier-forest-light .hljs-meta,
+.atelier-forest-light .hljs-built_in,
+.atelier-forest-light .hljs-builtin-name,
+.atelier-forest-light .hljs-literal,
+.atelier-forest-light .hljs-type,
+.atelier-forest-light .hljs-params {
+  color: #df5320;
+}
+
+/* Atelier-Forest Green */
+.atelier-forest-light .hljs-string,
+.atelier-forest-light .hljs-symbol,
+.atelier-forest-light .hljs-bullet {
+  color: #7b9726;
+}
+
+/* Atelier-Forest Blue */
+.atelier-forest-light .hljs-title,
+.atelier-forest-light .hljs-section {
+  color: #407ee7;
+}
+
+/* Atelier-Forest Purple */
+.atelier-forest-light .hljs-keyword,
+.atelier-forest-light .hljs-selector-tag {
+  color: #6666ea;
+}
+
+.atelier-forest-light .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #f1efee;
+  color: #68615e;
+  padding: 0.5em;
+}
+
+.atelier-forest-light .hljs-emphasis {
+  font-style: italic;
+}
+
+.atelier-forest-light .hljs-strong {
+  font-weight: bold;
+}
